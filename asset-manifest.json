@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/random-character-generator/static/css/main.6fcde5f8.chunk.css",
+    "main.js": "/random-character-generator/static/js/main.28ce045e.chunk.js",
+    "main.js.map": "/random-character-generator/static/js/main.28ce045e.chunk.js.map",
+    "runtime~main.js": "/random-character-generator/static/js/runtime~main.8bccfda4.js",
+    "runtime~main.js.map": "/random-character-generator/static/js/runtime~main.8bccfda4.js.map",
+    "static/css/2.266e55a5.chunk.css": "/random-character-generator/static/css/2.266e55a5.chunk.css",
+    "static/js/2.212fc7c9.chunk.js": "/random-character-generator/static/js/2.212fc7c9.chunk.js",
+    "static/js/2.212fc7c9.chunk.js.map": "/random-character-generator/static/js/2.212fc7c9.chunk.js.map",
+    "index.html": "/random-character-generator/index.html",
+    "precache-manifest.7a358f7536cc829e3a429fda9d2d9239.js": "/random-character-generator/precache-manifest.7a358f7536cc829e3a429fda9d2d9239.js",
+    "service-worker.js": "/random-character-generator/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/random-character-generator/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.6fcde5f8.chunk.css.map": "/random-character-generator/static/css/main.6fcde5f8.chunk.css.map"
+  }
+}

@@ -5,18 +5,20 @@ const SeenCards = ({ seen, onClick }) => {
   return (
     <ul
       className='list-group'
-      style={{ maxHeight: "300px", overflowY: "scroll" }}
+      style={{ maxHeight: "500px", overflowY: "scroll" }}
     >
       {characters.map(c => (
         <li
-          key={c.id + Math.random()}
+          key={c._id + Math.random()}
           className='list-group-item d-flex justify-content-between align-items-center'
           style={{ maxHeight: "40px", cursor: "pointer" }}
-          onClick={() => onClick(c.id)}
+          onClick={() => onClick(c._id)}
         >
           <img src={c.image} alt='img' style={{ maxHeight: "40px" }} />
           {c.name}
-          <span className='badge badge-info badge-pill'>{c.id}</span>
+          <span className='badge badge-info badge-pill'>
+            {c._id.slice(c._id.length - 3)}
+          </span>
         </li>
       ))}
     </ul>

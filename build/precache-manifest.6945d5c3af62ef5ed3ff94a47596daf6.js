@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/random-character-generator/index.html"
   },
   {
-    "revision": "2653c4af4bbb94963af3",
+    "revision": "363af93bc51d55810d0e",
     "url": "/random-character-generator/static/css/2.266e55a5.chunk.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/random-character-generator/static/css/main.6fcde5f8.chunk.css"
   },
   {
-    "revision": "2653c4af4bbb94963af3",
+    "revision": "363af93bc51d55810d0e",
     "url": "/random-character-generator/static/js/2.9e4bd79e.chunk.js"
   },
   {

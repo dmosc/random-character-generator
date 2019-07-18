@@ -1,9 +1,9 @@
 import { gql } from "apollo-boost";
 
 const GET_RANDOM_CHARACTER = gql`
-  query randomCharacter($randId: ID) {
-    character(id: $randId) {
-      id
+  query($_id: ID) {
+    character(_id: $_id) {
+      _id
       name
       status
       species

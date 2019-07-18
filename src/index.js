@@ -7,7 +7,7 @@ import "./index.css";
 import App from "./App";
 
 const client = new ApolloClient({
-  uri: "http://174.138.41.192:4000/graphql",
+  uri: "https://cors-anywhere.herokuapp.com/http://174.138.41.192:4000/graphql",
   cache: new InMemoryCache({
     addTypename: false
   })
